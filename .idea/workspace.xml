@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22a1fe2e-419e-440b-9704-35b3f8dcea56" name="Default Changelist" comment="" />
+    <list default="true" id="22a1fe2e-419e-440b-9704-35b3f8dcea56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tgt/igniteplus/immutableString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tgt/igniteplus/immutableString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aI1HgzDZUU316r22Uw3fsyasNv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.removeHyphen">
+  <component name="RunManager" selected="Application.compare2strings">
     <configuration name="compare2strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tgt.igniteplus.compare2strings" />
       <module name="string-assignment" />
@@ -91,8 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removeHyphen" />
         <item itemvalue="Application.compare2strings" />
+        <item itemvalue="Application.removeHyphen" />
         <item itemvalue="Application.lengthOrSize" />
         <item itemvalue="Application.emptyString" />
         <item itemvalue="Application.containsOnlyDigits" />
@@ -117,22 +127,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586411169612" />
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1586412663606">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1587960939616">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586412663606" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1586412663605">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587960939616" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1587960939615">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586412663605" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1586412663605">
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587960939615" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1587960939614">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586412663605" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1586412663605">
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587960939614" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1587960939615">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586412663605" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587960939615" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586429016924">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1586429016924" />
+    <state x="62" y="0" key="new project wizard" timestamp="1586432533386">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="62" y="0" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1586432533385" />
     <state x="336" y="162" key="run.anything.popup" timestamp="1586411737620">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

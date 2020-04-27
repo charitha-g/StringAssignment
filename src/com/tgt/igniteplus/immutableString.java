@@ -19,7 +19,6 @@ public final class immutableString
         return regNo;
     }
 }
-
 // Driver class
 class Test
 {
